@@ -6,7 +6,7 @@
 * Update
 * Forgot Password, Reset using OTP
 * Connected with node mailer for registration and OTP generation
-
+***
 * For the client side you have to add a (.env) file and start the naming with "REACT_APP" like:
 ```
 REACT_APP_SERVER_DOMAIN = http://localhost:5001 (Name and Port can be of your choice).
