@@ -17,7 +17,7 @@ MONGO_URL = Your mongo connect link
 PORT = Your own choice
 JWT_SECRET = Your secret key for token verification
 
-// I have used ethereal test email for the development. You can also create your own ethereal account
+// I have used ethereal test email for the development. You can also generate your own ethereal email
 EMAIL = 
 PASSWORD = 
 ```
